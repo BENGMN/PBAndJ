@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+#login {
+	text-align: center;
+}
+
+#sidebar {
+	border-style: solid;
+	border-color: red;
+	width: 18%;
+	height: 100px;
+	float: left;
+}
+
+#mainSection {
+	border-style: solid;
+	border-color: blue;
+	width: 78%;
+	height: 100px;
+	float: right;
+}
+
+.error {
+	color: red;
+}
